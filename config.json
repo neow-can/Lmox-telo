@@ -1,0 +1,25 @@
+{
+    "logChannelId": "1451990534863196396",
+    "showTellonym": true,
+    "adminLogChannelId": "1451990552152375328",
+    "rateLimits": {
+        "1312847338280189962": {
+            "count": 1,
+            "lastReset": 1766254883749
+        },
+        "1372275199457890395": {
+            "count": 1,
+            "lastReset": 1766254466456
+        }
+    },
+    "rateLimitConfig": {
+        "limit": 2,
+        "window": 3
+    },
+    "messageStats": {
+        "question": 3,
+        "compliment": 2,
+        "advice": 6,
+        "confession": 6
+    }
+}
