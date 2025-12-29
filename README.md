@@ -29,7 +29,7 @@ A Discord bot that allows users to send anonymous messages, similar to Tellonym.
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone .(https://github.com/neow-can/Lmox-telo)
    cd bot-tellonym-v1
    ```
 
